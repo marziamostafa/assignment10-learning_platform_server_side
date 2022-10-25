@@ -2,12 +2,20 @@
     {
         "id": "01",
         "name": "Language Learning",
-        "image": "https://www.fluentu.com/blog/wp-content/uploads/2015/02/30-of-the-best-online-language-courses11.png"
+        "image": "https://www.fluentu.com/blog/wp-content/uploads/2015/02/30-of-the-best-online-language-courses11.png",
+        "videos": "70",
+        "quiz": ,
+        "persons": ,
+        "notes":
     },
     {
         "id": "02",
         "name": "Programming",
-        "image": "https://res.cloudinary.com/grand-canyon-university/image/fetch/w_750,h_564,c_fill,g_faces,q_auto/https://www.gcu.edu/sites/default/files/2020-09/programming.jpg"
+        "image": "https://res.cloudinary.com/grand-canyon-university/image/fetch/w_750,h_564,c_fill,g_faces,q_auto/https://www.gcu.edu/sites/default/files/2020-09/programming.jpg",
+        "videos": "80",
+        "quiz": "80",
+        "persons": ,
+        "notes": "75"
     },
     {
         "id": "03",
