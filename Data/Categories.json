@@ -1,40 +1,62 @@
 [
     {
-        "id": "01",
+        "id": "1",
         "name": "Language Learning",
         "image": "https://www.fluentu.com/blog/wp-content/uploads/2015/02/30-of-the-best-online-language-courses11.png",
+        "instructor": "Patric",
         "videos": "70",
-        "quiz": ,
-        "persons": ,
-        "notes":
+        "quiz": "70",
+        "persons": "0",
+        "notes": "65"
     },
     {
-        "id": "02",
+        "id": "2",
         "name": "Programming",
         "image": "https://res.cloudinary.com/grand-canyon-university/image/fetch/w_750,h_564,c_fill,g_faces,q_auto/https://www.gcu.edu/sites/default/files/2020-09/programming.jpg",
+        "instructor": "James",
         "videos": "80",
         "quiz": "80",
-        "persons": ,
+        "persons": "0",
         "notes": "75"
     },
     {
-        "id": "03",
+        "id": "3",
         "name": "Free Courses",
-        "image": "https://cdn.seeklearning.com.au/media/images/career-guide/article/career-advice/web_images/blogs/214/6130/2020.132_BAM_CA_10-free-short-courses-to-upskill_940x485.jpg"
+        "image": "https://cdn.seeklearning.com.au/media/images/career-guide/article/career-advice/web_images/blogs/214/6130/2020.132_BAM_CA_10-free-short-courses-to-upskill_940x485.jpg",
+        "instructor": "Robert",
+        "videos": "31",
+        "quiz": "16",
+        "persons": "0",
+        "notes": "0"
     },
     {
-        "id": "04",
+        "id": "4",
         "name": "Skill Development",
-        "image": "https://elearningindustry.com/wp-content/uploads/2021/07/shutterstock_1155561859.png"
+        "image": "https://elearningindustry.com/wp-content/uploads/2021/07/shutterstock_1155561859.png",
+        "instructor": "John",
+        "videos": "88",
+        "quiz": "7",
+        "persons": "0",
+        "notes": "8"
     },
     {
-        "id": "05",
+        "id": "5",
         "name": "Professional Courses",
-        "image": "https://s40424.pcdn.co/in/wp-content/uploads/2022/04/MICA-SAMI-60-650x314.jpg"
+        "image": "https://s40424.pcdn.co/in/wp-content/uploads/2022/04/MICA-SAMI-60-650x314.jpg",
+        "instructor": "Oliver",
+        "videos": "15",
+        "quiz": "3",
+        "persons": "0",
+        "notes": "100"
     },
     {
-        "id": "06",
+        "id": "6",
         "name": "Job Recruitment",
-        "image": "https://www.techfunnel.com/wp-content/uploads/2021/08/recruiter_training.png"
+        "image": "https://www.techfunnel.com/wp-content/uploads/2021/08/recruiter_training.png",
+        "instructor": "Noah",
+        "videos": "140",
+        "quiz": "2000",
+        "persons": "0",
+        "notes": "100"
     }
 ]
