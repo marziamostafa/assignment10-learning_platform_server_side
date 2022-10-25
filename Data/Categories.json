@@ -1,62 +1,68 @@
 [
     {
-        "id": "1",
+        "id": "01",
         "name": "Language Learning",
         "image": "https://www.fluentu.com/blog/wp-content/uploads/2015/02/30-of-the-best-online-language-courses11.png",
         "instructor": "Patric",
         "videos": "70",
         "quiz": "70",
         "persons": "0",
-        "notes": "65"
+        "notes": "65",
+        "outcome": "Language is the medium to communicate with others. It can be speaking,reading,writting  or listening. In our practical life we find it problematic to speak in english. Not only that it's hard to find a teacher to learn arabic. Some are also  interested in chinese, japanese , french languages. So are preparing for the IELTS . So here is the opportunity to learn your desired language. You will also get the proficiency on grammer and vocabulary. You will be able to gain self-confidence to speak anywhere and in front of anybody. It's the course for those who don't have enough time but have the desire to learn. This online platform will provide you this privilege."
     },
     {
-        "id": "2",
+        "id": "02",
         "name": "Programming",
         "image": "https://res.cloudinary.com/grand-canyon-university/image/fetch/w_750,h_564,c_fill,g_faces,q_auto/https://www.gcu.edu/sites/default/files/2020-09/programming.jpg",
         "instructor": "James",
         "videos": "80",
         "quiz": "80",
         "persons": "0",
-        "notes": "75"
+        "notes": "75",
+        "outcome": "Learn programming with free online courses from real college courses like Harvard, MIT, and more of the world's leading universities. Pick up essential coding skills needed for frontend and/or backend web development, machine learning, IOS, Android,  Python, R and Software Development, Fundamentals of Java Programming , Web Development or Full Stack Developer, Google Cloud Platform Architecture, JavaScript, Angular 6, Redux and React and much more. Learn how to code or build your skills in programming online to gain a better understanding of how websites and apps are designed and developed."
     },
     {
-        "id": "3",
+        "id": "03",
         "name": "Free Courses",
         "image": "https://cdn.seeklearning.com.au/media/images/career-guide/article/career-advice/web_images/blogs/214/6130/2020.132_BAM_CA_10-free-short-courses-to-upskill_940x485.jpg",
         "instructor": "Robert",
         "videos": "31",
         "quiz": "16",
         "persons": "0",
-        "notes": "0"
+        "notes": "0",
+        "outcome": "We seek out experts in their field like presentation and public speaking, CV writing and interview, Email writing, corporate Etiquette, Ebglish grammer fundamentals, communication hacks, math series to design learning material that is comprehensive, broken down into manageable chunks and gives you a series of achievable learning outcomes. Our online courses strive to provide interactive and rich studying experiences - for anyone in the world, wherever they are. Starting learning for free with a wide range of free online courses covering different subjects. "
     },
     {
-        "id": "4",
+        "id": "04",
         "name": "Skill Development",
         "image": "https://elearningindustry.com/wp-content/uploads/2021/07/shutterstock_1155561859.png",
         "instructor": "John",
         "videos": "88",
         "quiz": "7",
         "persons": "0",
-        "notes": "8"
+        "notes": "8",
+        "outcome": "In this dynamic world, a single advantage will tip the balance to your benefit. Organizations around the world are also heavily investing in specialised courses aimed at improving technical and academic skills. These initiatives are a welcome change because they enable students and working employees to actively analyze business paradigm and to expand their job opportunities. These courses are relevant and help you keep up with the latest technology and regulations of the industry. To build a successful career skill development is one pf the most trendy way nowadays. Most of the young people find it the easiest way to earn just by sitting at home .Here we will provide you some courses such as, freelancing, facebook marketing, video making, graphics designing, web designing, cartoon animation, photography, robotics for beginners."
     },
     {
-        "id": "5",
+        "id": "05",
         "name": "Professional Courses",
         "image": "https://s40424.pcdn.co/in/wp-content/uploads/2022/04/MICA-SAMI-60-650x314.jpg",
         "instructor": "Oliver",
         "videos": "15",
         "quiz": "3",
         "persons": "0",
-        "notes": "100"
+        "notes": "100",
+        "outcome": "Develop your professional & personal skills through Learn Online. Find suitable courses of your industry and personal skills like Leadership execellence, Career guidance, Trade sales, Negotiation skills, supervisory skills etc. Upon completion, earn a Professional Certificate to share with your network and unlock job search resources, including resume development help, interview preparation, and more. Many Professional Certificates also have hiring partners or a hiring consortium that recognize the Professional Certificate credential.Professional Certificate programs are series of courses designed by industry leaders and top universities to build and enhance critical professional skills needed to succeed in today's most in-demand fields. Find the program that meets your specific needs. Stand out and succeed at work"
     },
     {
-        "id": "6",
+        "id": "06",
         "name": "Job Recruitment",
         "image": "https://www.techfunnel.com/wp-content/uploads/2021/08/recruiter_training.png",
         "instructor": "Noah",
         "videos": "140",
         "quiz": "2000",
         "persons": "0",
-        "notes": "100"
+        "notes": "100",
+        "outcome": "Get job-ready with affordable, career-aligned training programs taught by expert instructors from top companies and universities. Start pursuing your career dreams today. Get started right away and learn on your own schedule with flexible online courses. Build your network and share advice .Apply your new skills with real-world projects like bank jobes, Govt jobs, BCS prelimenary, private job sectors that you can share in interviews to demonstrate your job-readiness to potential employers"
     }
 ]
